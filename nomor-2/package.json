@@ -1,0 +1,12 @@
+{
+  "name": "challenge-chapter-3",
+  "version": "1.0.0",
+  "description": "challnge chapter 3 oop JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "ibnu-faauzan-a",
+  "license": "ISC"
+}
